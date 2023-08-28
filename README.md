@@ -7,12 +7,18 @@ Levando em consideração os desafios, optei por uma arquiterura de orquestraç�
 Por isso optei por essa arquitetura, é uma arquitetura mais simples e que nos permite desenvolver muito em cima dela alterar o que for necessario sem grandes complicações.
 
 
+
+
+
 Vejo que na minha solução ainda há muito a implementar, começando por testes unitarios e integrados, além do próprio teste de carga que foi solicitado.
 Eu planejava criar toda a estrutura utilizando o swagger codegen e utilizar a JDBI para manter a performance, em vez da JPA, porém todos esses planos acabaram me custando muito tempo tentando integrar as tecnologias e fazer com que o componente compilasse de fato, o swagger se mostrou meu maior inimigo aqui na minha maquina pessoal hahaha.
 
-Assim tive que realizar o trabalho com o bom e verboso JDBC.
+Assim tive que realizar o trabalho com o bom e verboso JDBC. Continuarei trabalhando no projeto, tenho muitas coisas a arrumar e convido-os a revisitarem este projeto.
 
-Continuarei trabalhando no projeto, tenho muitas coisas a arrumar e convido-os a revisitarem este projeto.
+
+
+
+
 
 Falando um pouco das tarefas bonus agora:
 
