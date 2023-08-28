@@ -1,19 +1,18 @@
-Olá, agradeço desde já pela oportunidade.
+Olá, agradeço desde já pela oportunidade e aceito de muito bom grado comentarios e criticas ao meu projeto.
 
 
 
 
-Levando em consideração os desafios, optei por uma arquiterura de orquestração, acredito que esse cenario que foi apresentado, em uma aplicação real, seria apenas um processo de um grande sistema. 
-Por isso optei por essa arquitetura, é uma arquitetura mais simples e que nos permite desenvolver muito em cima dela alterar o que for necessario sem grandes complicações.
-
-
+Levando em consideração os desafios optei por uma arquiterura de orquestração,  é uma arquitetura mais simples que nos permite desenvolver muito em cima dela e alterar o que for necessario sem grandes complicações.
 
 
 
 Vejo que na minha solução ainda há muito a implementar, começando por testes unitarios e integrados, além do próprio teste de carga que foi solicitado.
-Eu planejava criar toda a estrutura utilizando o swagger codegen e utilizar a JDBI para manter a performance, em vez da JPA, porém todos esses planos acabaram me custando muito tempo tentando integrar as tecnologias e fazer com que o componente compilasse de fato, o swagger se mostrou meu maior inimigo aqui na minha maquina pessoal hahaha.
+Eu planejava criar toda a estrutura utilizando o swagger codegen e utilizar a JDBI para manter a performance, em vez da JPA, porém tive problemas ao integrar as tecnologias, aparentemente o swagger se mostrou meu maior inimigo aqui na minha maquina pessoal hahaha.
 
-Assim tive que realizar o trabalho com o bom e verboso JDBC. Continuarei trabalhando no projeto, tenho muitas coisas a arrumar e convido-os a revisitarem este projeto.
+Assim tive que realizar o trabalho com o bom e verboso JDBC. Dito isto, continuarei trabalhando no projeto.
+
+Por outro lado isso tornou o projeto quase livre de dependencias, sendo necessario apenas o Java 17 e o Maven para roda-lo.
 
 
 
