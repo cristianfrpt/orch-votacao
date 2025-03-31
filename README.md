@@ -1,5 +1,4 @@
-Olá, agradeço desde já pela oportunidade e aceito de muito bom grado comentarios e criticas ao meu projeto.
-
+Olá, agradeço desde já pela oportunidade e agradeço criticas ao projeto.
 
 
 
@@ -8,14 +7,7 @@ Levando em consideração os desafios optei por uma arquiterura de orquestraçã
 
 
 Vejo que na minha solução ainda há muito a implementar, começando por testes unitarios e integrados, além do próprio teste de carga que foi solicitado.
-Eu planejava criar toda a estrutura utilizando o swagger codegen e utilizar a JDBI para manter a performance, em vez da JPA, porém tive problemas ao integrar as tecnologias, aparentemente o swagger se mostrou meu maior inimigo aqui na minha maquina pessoal hahaha.
-
-Assim tive que realizar o trabalho com o bom e verboso JDBC. Dito isto, continuarei trabalhando no projeto.
-
-Por outro lado isso tornou o projeto quase livre de dependencias, sendo necessario apenas o Java 17 e o Maven para roda-lo.
-
-
-
+Eu planejava criar toda a estrutura utilizando o swagger codegen e utilizar a JDBI para manter a performance, em vez da JPA, porém tive problemas de ambiente na minha maquina pessoal e não atuei nisso devido a falta de tempo.
 
 
 
